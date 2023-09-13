@@ -1,4 +1,4 @@
-### auth-template
+## auth-template
 auth-template is a PHP Laravel project that provides a user-friendly registration and login system.
 
 ## Features
